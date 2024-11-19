@@ -67,7 +67,7 @@ function App() {
       <div className="flex flex-col items-center gap-6 fade-in">
         <div className="flex items-center gap-3 bg-black/20 px-6 py-3 rounded-full backdrop-blur-sm">
           <Cloud className="text-white" size={40} />
-          <h1 className="text-4xl font-bold text-white">Weather App</h1>
+          <h1 className="text-4xl font-bold text-white">Not your regular Weather App</h1>
         </div>
         <SearchBar 
           city={city} 
